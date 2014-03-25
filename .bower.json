@@ -1,0 +1,15 @@
+{
+  "name": "flatstrap",
+  "version": "0.3.1",
+  "private": true,
+  "homepage": "https://github.com/immense/flatstrap",
+  "_release": "0.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.1",
+    "commit": "56f26c7b6c64716dbf9b65cd9d62d807c870559e"
+  },
+  "_source": "git://github.com/immense/flatstrap.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/immense/flatstrap.git"
+}
